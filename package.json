@@ -1,5 +1,5 @@
 {
-  "name": "sum_array",
+  "name": "sum_array_easy",
   "version": "1.0.0",
   "main": "./sum_array.js",
   "scripts": {
