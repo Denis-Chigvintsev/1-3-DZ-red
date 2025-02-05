@@ -1,7 +1,7 @@
 {
   "name": "sum_array_easy",
   "version": "1.0.0",
-  "main": "./sum_array.js",
+  "main": "./sum_array_easy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
